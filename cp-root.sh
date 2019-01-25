@@ -3,7 +3,6 @@
 
 copy_files() {
 cat <<EOF
-build_falcon.sh
 build_gts210ltexx.sh
 build_osprey.sh
 build_osprey-user.sh
